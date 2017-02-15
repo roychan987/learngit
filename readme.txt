@@ -2,4 +2,4 @@ Git is a version control system.
 git is a free software.
 
 
-git is cool
+git is not cool
